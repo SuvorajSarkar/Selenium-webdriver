@@ -14,7 +14,8 @@ public class MyFirstSeleniumWebDriverTest4 {
 	public static void main(String[] args) {
 
 		/*
-		 * chrome--webdriver.chrome.driver-google Firefix--webdriver.gecko.driver-Mozila
+		 * chrome--webdriver.chrome.driver-google -107,108
+		 * Firefix--webdriver.gecko.driver-Mozila -108,109
 		 * Edge--webdriver.edge.driver
 		 */
 
@@ -22,7 +23,7 @@ public class MyFirstSeleniumWebDriverTest4 {
 
 		// Option-1:Manually maintain driver
 		/*
-		 * System.setProperty("webdriver.chrome.driver",
+		 * System.setProperty("webdriver.chrome.driver"),
 		 * "C:\\Users\\sagni\\Downloads\\chromedriver_win32");
 		 */
 
